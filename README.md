@@ -1,2 +1,19 @@
-# Data-Annotation-Portfolio
-My data annotation projects (image labeling, bounding boxes, YOLO, COCO)
+# Data Annotation Portfolio
+
+Hello, I am Mohammad Tayyab.
+
+This portfolio showcases my work in image annotation.
+
+## Skills
+- Bounding Box Annotation
+- Object Detection
+- YOLO & COCO format labeling
+
+## Tools
+- Roboflow
+
+## Projects
+- Vehicle Detection
+
+## Note
+All annotations are manually created following proper guidelines.
