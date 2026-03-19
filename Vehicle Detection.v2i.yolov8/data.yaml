@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['Mini truck', 'auto', 'bike', 'box', 'bus', 'car', 'cycle', 'person', 'scooty', 'tractor', 'zebra crossing']
+
+roboflow:
+  workspace: tayyab-og0n6
+  project: vehicle-detection-oebwi
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tayyab-og0n6/vehicle-detection-oebwi/dataset/2
